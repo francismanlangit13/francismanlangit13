@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on **Municipal Agriculture Office**
 
-- 👯 I’m looking to collaborate on **Grow eCommerce Data Processing Inc**
+- 🌱 I’m currently learning **Laravel and Vue.js**
+
+- 👯 I’m collaborate on **Grow eCommerce Data Processing Inc**
 
 - 🤝 I’m looking for help with **Supreme Student Government**
 
