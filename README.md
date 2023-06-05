@@ -7,7 +7,7 @@
 
 - 👯 I’m collaborate on **Grow eCommerce Data Processing Inc**
 
-- 🤝 I’m looking for help with **Supreme Student Government**
+- 🤝 I’m looking for help with [Supreme Student Government](https://github.com/francismanlangit13/ssgsystem)
 
 - 👨‍💻 All of my projects are available at [https://franzcarl.ueuo.com](https://franzcarl.ueuo.com)
 
