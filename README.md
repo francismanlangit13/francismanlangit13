@@ -7,7 +7,7 @@
 
 - 👯 I’m collaborate on **Grow eCommerce Data Processing Inc**
 
-- 🤝 I’m looking for help with [Supreme Student Government](https://github.com/francismanlangit13/ssgsystem)
+- 🤝 I’m looking for help with [Rental Properties Management System](https://github.com/francismanlangit13/rpmsystem)
 
 - 👨‍💻 All of my projects are available at [https://franzcarl.ueuo.com](https://franzcarl.ueuo.com)
 
