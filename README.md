@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hi, I'm Francis Carlo A. Manlangit</h1>
 <h3 align="center">A passionate full-stack web developer.</h3>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=francismanlangit13&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🔭 I’m currently working on [Aloran Association of Senior Citizens' Incorporated](https://github.com/francismanlangit13/aasci)
 
 - 🌱 I’m currently learning **Laravel and Vue.js**
